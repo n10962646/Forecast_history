@@ -51,6 +51,3 @@ weighted_scores = {forecaster: weight / total_weight for forecaster, weight in w
 # Display results
 print("Mean Errors by Forecaster:", mean_errors)
 print("Weighted Accuracy Scores:", weighted_scores)
-
-# Save the final dataframe with errors to a new CSV file (optional)
-df.to_csv('/mnt/data/forecast_analysis_results.csv', index=False)
