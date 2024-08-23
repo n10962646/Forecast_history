@@ -4,6 +4,7 @@ Analysis Summary
 - Westpac had an average prediction error of approximately 109.02%.
 - Joe Bloggs had an average prediction error of approximately 206.26%.
 - Harry Spent had an average prediction error of approximately 152.85%.
+  
 Based on this analysis, Westpac was the most accurate forecaster overall, followed by Harry Spent, with Joe Bloggs having the largest average prediction error, indicating lower reliability.
 
 The weighted accuracy scores for each forecaster, based on the inverse of their mean prediction errors, are as follows:
